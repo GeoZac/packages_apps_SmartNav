@@ -224,8 +224,12 @@ public class SmartButtonView extends ImageView {
         final boolean keyguardShowing = mHost.isKeyguardShowing();
         if (!keyguardShowing
                 || (ActionHandler.SYSTEMUI_TASK_BACK.equals(action)
-                    || ActionHandler.SYSTEMUI_TASK_HOME.equals(action))) {
-             ActionHandler.performTask(mContext, action);
+                || ActionHandler.SYSTEMUI_TASK_HOME.equals(action))) {
+            if (ActionHandler.SYSTEMUI_TASK_ROTATION.equals(action)) {
+                mHost.rotate();
+            } else {
+                ActionHandler.performTask(mContext, action);
+            }
         }
     }
 

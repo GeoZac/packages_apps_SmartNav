@@ -200,6 +200,9 @@ public abstract class BaseNavigationBar extends LinearLayout implements Navigato
         getBarTransitions().updateResources(mResourceMap);
     }
 
+    public void setRotateSuggestionButtonState(boolean visible, boolean skipAnim) {}
+    public void setLastRotation(int rotation) {}
+
     protected static float alphaIntToFloat(int alpha) {
         return (float) Math.max(0, Math.min(255, alpha)) / 255;
     }

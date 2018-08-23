@@ -155,4 +155,8 @@ public interface Navigator extends PluginListener<NavGesture> {
 
     // allow implementations to parse intents from receiver in fragment
     public default void onReceive(Intent intent) {}
+
+    // rotation changes from SystemUI
+    public default void setRotateSuggestionButtonState(boolean visible, boolean skipAnim) {}
+    public default void setLastRotation(int rotation) {}
 }
