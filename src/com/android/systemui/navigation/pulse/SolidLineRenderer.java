@@ -1,7 +1,7 @@
 /**
  * Copyright (C) 2016 The DirtyUnicorns Project
  * Copyright (C) 2015 The CyanogenMod Project
- * 
+ *
  * @author: Randall Rushing <randall.rushing@gmail.com>
  *
  * Contributions from The CyanogenMod Project
@@ -320,7 +320,7 @@ public class SolidLineRenderer extends Renderer implements ColorAnimator.ColorAn
             mAlbumColor = -1;
         }
         if (mAutoColor && !mLavaLampEnabled) {
-            mPaint.setColor(mAlbumColor != 1 ? mAlbumColor : mColor);
+            mPaint.setColor(mAlbumColor != -1 ? mAlbumColor : mColor);
             mController.setLastColor(mAlbumColor);
         }
     }
