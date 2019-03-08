@@ -16,7 +16,6 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Bindable action labels -->
     <string name="label_action_no_action">Nincs művelet</string>
     <string name="label_action_settings_panel">Gyorsbeállítások-panel</string>
     <string name="label_action_notification_panel">Értesítési panel</string>
@@ -55,7 +54,6 @@
     <string name="label_action_media_left">Előző zeneszám</string>
     <string name="label_action_media_right">Következő zeneszám</string>
     <string name="label_action_assistant_sound_search">Google hangalapú-keresés</string>
-    <!-- Smartbar -->
     <string name="label_smartbar_actions">Műveletek</string>
     <string name="label_smartbar_icon">Ikon</string>
     <string name="label_smartbar_add">Hozzáadás</string>
@@ -73,7 +71,5 @@
     <string name="smartbar_editor_toast_stopping">A navigációssáv-szerkesztő leállítása</string>
     <string name="smartbar_editor_toast_unavailable">A navigációssáv-szerkesztő nem érhető el</string>
     <string name="edit_mode">Szerkesztőmód</string>
-    <!-- App killed message -->
     <string name="app_killed_message">%s kilőve</string>
-    <!-- Pulse and media arrows blacklist -->
 </resources>

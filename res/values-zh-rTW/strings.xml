@@ -16,9 +16,5 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Bindable action labels -->
     <string name="label_action_expanded_desktop">延伸桌面</string>
-    <!-- Smartbar -->
-    <!-- App killed message -->
-    <!-- Pulse and media arrows blacklist -->
 </resources>

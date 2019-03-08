@@ -16,7 +16,6 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Bindable action labels -->
     <string name="label_action_no_action">Geen actie</string>
     <string name="label_action_settings_panel">Snelle instellingen paneel</string>
     <string name="label_action_notification_panel">Notificatie paneel</string>
@@ -55,7 +54,6 @@
     <string name="label_action_media_left">Vorig nummer</string>
     <string name="label_action_media_right">Volgend nummer</string>
     <string name="label_action_assistant_sound_search">Google geluid zoeken</string>
-    <!-- Smartbar -->
     <string name="label_smartbar_actions">Acties</string>
     <string name="label_smartbar_icon">Pictogram</string>
     <string name="label_smartbar_add">Toevoegen</string>
@@ -73,7 +71,5 @@
     <string name="smartbar_editor_toast_stopping">Navigatie bewerker aan het stoppen</string>
     <string name="smartbar_editor_toast_unavailable">Navigatie bewerker niet beschikbaar</string>
     <string name="edit_mode">Bewerk modus</string>
-    <!-- App killed message -->
     <string name="app_killed_message">%s afgesloten</string>
-    <!-- Pulse and media arrows blacklist -->
 </resources>

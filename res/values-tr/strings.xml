@@ -16,7 +16,6 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Bindable action labels -->
     <string name="label_action_no_action">Eylem yok</string>
     <string name="label_action_settings_panel">Hızlı ayarlar paneli</string>
     <string name="label_action_notification_panel">Bildirim paneli</string>
@@ -55,7 +54,6 @@
     <string name="label_action_media_left">Önceki parça</string>
     <string name="label_action_media_right">Sonraki parça</string>
     <string name="label_action_assistant_sound_search">Google sesli arama</string>
-    <!-- Smartbar -->
     <string name="label_smartbar_actions">Eylemler</string>
     <string name="label_smartbar_icon">Simgeler</string>
     <string name="label_smartbar_add">Ekle</string>
@@ -73,7 +71,5 @@
     <string name="smartbar_editor_toast_stopping">Gezinme çubuğu düzenleyicisi durduruluyor</string>
     <string name="smartbar_editor_toast_unavailable">Gezinme düzenleyicisi kullanılamıyor</string>
     <string name="edit_mode">Düzenleme modu</string>
-    <!-- App killed message -->
     <string name="app_killed_message">%s sonlandırıldı</string>
-    <!-- Pulse and media arrows blacklist -->
 </resources>
