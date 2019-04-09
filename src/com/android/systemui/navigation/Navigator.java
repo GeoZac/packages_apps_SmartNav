@@ -1,7 +1,7 @@
 /**
  * Copyright (C) 2014 The TeamEos Project
  * Copyright (C) 2016 The DirtyUnicorns Project
- * 
+ *
  * @author: Randall Rushing <randall.rushing@gmail.com>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,10 +15,10 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- * 
+ *
  * Interface for all the things that go in that navigation window and do
  * amazing things. This is all the rest of the world needs to see ;D
- * 
+ *
  */
 
 package com.android.systemui.navigation;
@@ -78,6 +78,7 @@ public interface Navigator extends PluginListener<NavGesture> {
     public default void setMediaPlaying(boolean playing) {}
     public default void setNotificationPanelExpanded(boolean expanded) {}
     public default void setPulseColors(boolean colorizedMedia, int[] colors) {}
+    public default void swiftNavigationBarItems(int horizontalShift, int verticalShift) {}
 
     /*
      * Introduced in Pie
