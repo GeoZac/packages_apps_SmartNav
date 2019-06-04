@@ -54,6 +54,9 @@
     <string name="label_action_media_left">Poprzedni utwór</string>
     <string name="label_action_media_right">Następny utwór</string>
     <string name="label_action_assistant_sound_search">Wyszukiwarka dźwięku Google</string>
+    <string name="label_action_play_pause">Odtwórz/Zatrzymaj muzykę</string>
+    <string name="label_action_ring_vibe_silent">Dźwięk/Wibracje/Wyciszony</string>
+    <string name="label_action_camera">Aparat</string>
     <string name="label_smartbar_actions">Akcje</string>
     <string name="label_smartbar_icon">Ikona</string>
     <string name="label_smartbar_add">Dodaj</string>

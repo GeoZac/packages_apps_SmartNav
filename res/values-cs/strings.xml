@@ -54,6 +54,9 @@
     <string name="label_action_media_left">Předchozí skladba</string>
     <string name="label_action_media_right">Další skladba</string>
     <string name="label_action_assistant_sound_search">Vyhledávání zvuku Google</string>
+    <string name="label_action_play_pause">Přehrávat/pozastavit skladbu</string>
+    <string name="label_action_ring_vibe_silent">Zvonění/vibrace/ticho</string>
+    <string name="label_action_camera">Fotoaparát</string>
     <string name="label_smartbar_actions">Akce</string>
     <string name="label_smartbar_icon">Ikona</string>
     <string name="label_smartbar_add">Přidat</string>

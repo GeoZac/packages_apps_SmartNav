@@ -54,6 +54,9 @@
     <string name="label_action_media_left">المسار السابق</string>
     <string name="label_action_media_right">المسار التالي</string>
     <string name="label_action_assistant_sound_search">بحث Google الصوتي</string>
+    <string name="label_action_play_pause">تشغيل/إيقاف الوسائط</string>
+    <string name="label_action_ring_vibe_silent">رنين/إهتزاز/صامت</string>
+    <string name="label_action_camera">الكاميرا</string>
     <string name="label_smartbar_actions">الإجراءات</string>
     <string name="label_smartbar_icon">الأيقونة</string>
     <string name="label_smartbar_add">إضافة</string>

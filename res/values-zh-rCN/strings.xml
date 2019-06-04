@@ -54,6 +54,9 @@
     <string name="label_action_media_left">上一个曲目</string>
     <string name="label_action_media_right">下一个曲目</string>
     <string name="label_action_assistant_sound_search">Google 语音搜索</string>
+    <string name="label_action_play_pause">播放/暂停媒体</string>
+    <string name="label_action_ring_vibe_silent">响铃/振动/静音</string>
+    <string name="label_action_camera">相机</string>
     <string name="label_smartbar_actions">操作</string>
     <string name="label_smartbar_icon">图标</string>
     <string name="label_smartbar_add">添加</string>

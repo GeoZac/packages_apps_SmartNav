@@ -54,6 +54,9 @@
     <string name="label_action_media_left">Vorig nummer</string>
     <string name="label_action_media_right">Volgend nummer</string>
     <string name="label_action_assistant_sound_search">Google geluid zoeken</string>
+    <string name="label_action_play_pause">Afspelen/Pauzeren media</string>
+    <string name="label_action_ring_vibe_silent">Beltoon/Trillen/Stil</string>
+    <string name="label_action_camera">Camera</string>
     <string name="label_smartbar_actions">Acties</string>
     <string name="label_smartbar_icon">Pictogram</string>
     <string name="label_smartbar_add">Toevoegen</string>

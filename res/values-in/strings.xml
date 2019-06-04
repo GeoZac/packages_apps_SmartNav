@@ -54,6 +54,9 @@
     <string name="label_action_media_left">Trek sebelumnya</string>
     <string name="label_action_media_right">Trek berikutnya</string>
     <string name="label_action_assistant_sound_search">Pencarian suara Google</string>
+    <string name="label_action_play_pause">Putar/Jeda media</string>
+    <string name="label_action_ring_vibe_silent">Dering/Getar/Hening</string>
+    <string name="label_action_camera">Kemera</string>
     <string name="label_smartbar_actions">Tindakan</string>
     <string name="label_smartbar_icon">Ikon</string>
     <string name="label_smartbar_add">Tambah</string>
